@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate/master hybrid course"
+type: "Undergraduate course"
 permalink: /teaching/2022-fall-teaching-3
 venue: "Vanderbilt University, Biomedical Engineering Department"
 date: 2022-08-26
