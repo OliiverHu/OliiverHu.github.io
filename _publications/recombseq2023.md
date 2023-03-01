@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "ADEPT: Autoencoder with Differentially Expressed Genes and Imputation for a Robust Spatial Transcriptomics Clustering"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/recombseq2023
+excerpt: 'To harness both spatial context and transcriptional profile in ST data, we develop a novel graph-based multi-stage framework for robust clustering, called ADEPT. To control and stabilize data quality, ADEPT relies on selection of differentially expressed genes (DEGs) and imputation of the multiple DEG-based matrices for the initial and final clustering of a graph autoencoder backbone that minimizes the variance of clustering results.'
+date: 2023-03-01
+venue: 'Recomb-seq 2023'
+paperurl: 'http://oliiverhu.github.io/files/bibm2021.pdf'
+citation: 'Y. Hu, Y. Zhao, C. T. Schunk, Y. Ma, T. Derr*, X. M. Zhou*. ADEPT: autoencoder with differentially expressed genes and imputation for a robust spatial transcriptomics clustering. (Recomb-seq 2023).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+To harness both spatial context and transcriptional profile in ST data, we develop a novel graph-based multi-stage framework for robust clustering, called ADEPT. To control and stabilize data quality, ADEPT relies on selection of differentially expressed genes (DEGs) and imputation of the multiple DEG-based matrices for the initial and final clustering of a graph autoencoder backbone that minimizes the variance of clustering results.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://oliiverhu.github.io/files/bibm2021.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Y. Hu†, Y. Zhao†, C. T. Schunk, Y. Ma, T. Derr*, X. M. Zhou*. ADEPT: autoencoder with differentially expressed genes and imputation for a robust spatial transcriptomics clustering. (Recomb-seq 2023).
