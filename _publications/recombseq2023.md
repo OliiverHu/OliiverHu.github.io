@@ -12,4 +12,4 @@ To harness both spatial context and transcriptional profile in ST data, we devel
 
 [Download paper here](http://oliiverhu.github.io/files/bibm2021.pdf)
 
-Y. Hu†, Y. Zhao†, C. T. Schunk, Y. Ma, T. Derr*, X. M. Zhou*. ADEPT: autoencoder with differentially expressed genes and imputation for a robust spatial transcriptomics clustering. (Recomb-seq 2023).
+Y. Hu†, Y. Zhao†, C. T. Schunk, Y. Ma, T. Derr*, X. M. Zhou*. ADEPT: autoencoder with differentially expressed genes and imputation for a robust spatial transcriptomics clustering. The 13th RECOMB Satellite Conference on Biological Sequence Analysis (RECOMB-SEQ 2023).
