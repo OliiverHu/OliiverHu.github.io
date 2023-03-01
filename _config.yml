@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yunfei's homepage"
 title_separator          : "-"
 name                     : &name "Yunfei Hu"
-description              : &description "personal description"
+description              : &description "PhD candidate in Vandy CS"
 url                      : https://OliiverHu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yunfei"
   avatar           : "yunfei.png"
-  bio              : "PhD candidate at Vandy CS"
+  bio              : "PhD candidate in Vandy CS"
   location         : "Nashville, TN"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/OliiverHu/"
+  github           : "OliiverHu/"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yunfei-hu-93331016b/"
+  linkedin         : "yunfei-hu-93331016b/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
