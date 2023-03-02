@@ -8,12 +8,14 @@ date: 2021-08-21
 location: "Nashville, TN, US"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Mentoring/collaboration experiences
 
 Undergraduate Students
 ======
 Jia Yao  CS, 2022 Summer – 2022 Fall, first job: Biomedical Engineering Program @ UT Southwestern Medical Center
+
 Curtis Schunk  MS in BME, 2022 Summer – 2022 Fall, first job: Analyst, Clinical & Strategic Analytics @ OneOncology
+
 Zihang Wen  BS in Engineering, 2020 Summer – 2022 Summer, first job: Ph.D. student in Computational Biology (CPCB) through Computer Science @ CMU
 
 Master Students
