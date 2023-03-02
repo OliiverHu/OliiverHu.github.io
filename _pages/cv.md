@@ -12,9 +12,10 @@ redirect_from:
 Education
 ======
 * B.S. in Bioinformatics, Huazhong University of Science and Technology, 2018
-* 
+    - visiting student, University of California, Berkeley, 2016
 * M.S. in Computer Science, Huazhong University of Science and Technology, 2021
 * Ph.D in Computer Science, Vanderbilt University, 2026 (expected)
+
 
 <!-- Work experience
 ======
