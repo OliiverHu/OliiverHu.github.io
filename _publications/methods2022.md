@@ -1,14 +1,14 @@
 ---
 title: "Automated filtering of genome-wide large deletions through an ensemble deep learning framework"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+permalink: /publication/methods2022
+excerpt: 'After extending the algorithm to shortreads dataset, we tested the performance of AquilaDeepFilter on all five linked-reads and short-read libraries sequenced from the well-studied NA24385 sample, validated against the Genome in a Bottle benchmark. To demonstrate the filtering ability of AquilaDeepFilter, we utilized the SV calls from three upstream SV detection tools including Aquila, Aquila_stLFR and Delly as the baseline.'
 date: 2022-10-01
 venue: 'Methods'
 paperurl: 'http://oliiverhu.github.io/files/methods2022.pdf'
 citation: 'Yunfei Hu, Sanidhya Mangal, Lu Zhang, Xin Zhou, Automated filtering of genome-wide large deletions through an ensemble deep learning framework, Methods, Volume 206, 2022, Pages 77-86.'
 ---
-After extending the algorithm to shortreads dataset, we tested the performance of AquilaDeepFilter on all five linked-reads and short-read libraries sequenced from the well-studied NA24385 sample, validated against the Genome in a Bottle benchmark. To demonstrate the filtering ability of AquilaDeepFilter, we utilized the SV calls from three upstream SV detection tools including Aquila, Aquila_stLFR and Delly as the baseline.
+Abstract: Computational methods based on whole genome linked-reads and short-reads have been successful in genome assembly and detection of structural variants (SVs). Numerous variant callers that rely on linked-reads and short reads can detect genetic variations, including SVs. A shortcoming of existing tools is a propensity for overestimating SVs, especially for deletions. Optimizing the advantages of linked-read and short-read sequencing technologies would thus benefit from an additional step to effectively identify and eliminate false positive large deletions. Here, we introduce a novel tool, AquilaDeepFilter, aiming to automatically filter genome-wide false positive large deletions. Our approach relies on transforming sequencing data into an image and then relying on convolutional neural networks to improve classification of candidate deletions as such. Input data take into account multiple alignment signals including read depth, split reads and discordant read pairs. We tested the performance of AquilaDeepFilter on five linked-reads and short-read libraries sequenced from the well-studied NA24385 sample, validated against the Genome in a Bottle benchmark. To demonstrate the filtering ability of AquilaDeepFilter, we utilized the SV calls from three upstream SV detection tools including Aquila, Aquila_stLFR and Delly as the baseline. We showed that AquilaDeepFilter increased precision while preserving the recall rate of all three tools. The overall F1-score improved by an average 20% on linked-reads and by an average of 15% on short-read data. AquilaDeepFilter also compared favorably to existing deep learning based methods for SV filtering, such as DeepSVFilter. AquilaDeepFilter is thus an effective SV refinement framework that can improve SV calling for both linked-reads and short-read data.
 
 [Download paper here](http://oliiverhu.github.io/files/methods2022.pdf)
 
