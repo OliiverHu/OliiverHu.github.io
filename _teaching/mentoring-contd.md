@@ -4,7 +4,7 @@ collection: teaching
 type: "mentoring"
 permalink: /teaching/mentoring
 venue: "Maizie Zhou's Lab"
-date: 2021-08-26
+date: 2021-08-21
 location: "Nashville, TN, US"
 ---
 
