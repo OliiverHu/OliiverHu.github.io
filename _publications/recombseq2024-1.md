@@ -1,6 +1,6 @@
 ---
 title: "MaskGraphene: Advancing joint embedding, clustering, and batch correction for spatial transcriptomics using graph-based self-supervised learning"
-collection: publications
+collection: C
 permalink: /publication/recombseq2024-1
 excerpt: 'To address this, we introduce a method called MaskGraphene, for the purpose of better aligning and integrating different ST slices using both self-supervised and contrastive learning. MaskGraphene learns the joint embeddings to capture the geometric information efficiently. MaskGraphene further facilitates spatial aware data integration and simultaneous identification of shared and unique cell/domain types across different slices.'
 date: 2024-03-15

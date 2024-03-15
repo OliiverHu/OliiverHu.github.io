@@ -1,6 +1,6 @@
 ---
 title: "CNVeil enables accurate and robust tumor subclone identification and copy number estimation from single-cell DNA sequencing data."
-collection: publications
+collection: C
 permalink: /publication/recombseq2024-2
 excerpt: 'To address these challenges, we introduce CNVeil, a robust quantitative algorithm designed to accurately reveal CNV profiles while overcoming the inherent noise and bias in scDNA-seq data. CNVeil incorporates a unique bias correction method using normal cell profiles identified by a PCA-based Gini coefficient, effectively mitigating sequencing bias.'
 date: 2024-03-15

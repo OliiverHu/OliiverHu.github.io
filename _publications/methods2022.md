@@ -1,6 +1,6 @@
 ---
 title: "Automated filtering of genome-wide large deletions through an ensemble deep learning framework"
-collection: publications
+collection: J
 permalink: /publication/methods2022
 excerpt: 'After extending the algorithm to shortreads dataset, we tested the performance of AquilaDeepFilter on all five linked-reads and short-read libraries sequenced from the well-studied NA24385 sample, validated against the Genome in a Bottle benchmark. To demonstrate the filtering ability of AquilaDeepFilter, we utilized the SV calls from three upstream SV detection tools including Aquila, Aquila_stLFR and Delly as the baseline.'
 date: 2022-10-01
