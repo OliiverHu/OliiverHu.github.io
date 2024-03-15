@@ -1,0 +1,13 @@
+---
+title: "MaskGraphene: Advancing joint embedding, clustering, and batch correction for spatial transcriptomics using graph-based self-supervised learning"
+collection: publications
+permalink: /publication/recombseq2024-1
+excerpt: 'To address this, we introduce a method called MaskGraphene, for the purpose of better aligning and integrating different ST slices using both self-supervised and contrastive learning. MaskGraphene learns the joint embeddings to capture the geometric information efficiently. MaskGraphene further facilitates spatial aware data integration and simultaneous identification of shared and unique cell/domain types across different slices.'
+date: 2024-03-15
+venue: 'RECOMB-SEQ'
+paperurl: 'https://www.biorxiv.org/content/10.1101/2024.02.21.581387v1.abstract'
+citation: 'Hu, Yunfei, et al. "MaskGraphene: Advancing joint embedding, clustering, and batch correction for spatial transcriptomics using graph-based self-supervised learning." bioRxiv (2024): 2024-02.'
+---
+Abstract: With the rapid advancement and generation of spatial transcriptomics (ST), integrating data from multiple ST slices is increasingly crucial for joint slice analysis. Nevertheless, the tasks of learning joint embeddings and identifying shared and unique cell/domain types across ST slices remain challenging. To address this, we introduce a method called MaskGraphene, for the purpose of better aligning and integrating different ST slices using both self-supervised and contrastive learning. MaskGraphene learns the joint embeddings to capture the geometric information efficiently. MaskGraphene further facilitates spatial aware data integration and simultaneous identification of shared and unique cell/domain types across different slices. We have applied MaskGraphene to conduct integrative analyses on various types of ST datasets, including human cortex slices, mouse hypothalamus data, mouse sagittal brain sections, and mouse embryo developmental data. Across datasets, MaskGraphene successfully optimized joint embedding by introducing inter-slice connections, effectively performing batch correction and capturing shared tissue structures across different slices, and tracking spatiotemporal changes during mouse embryonic development.
+
+Hu, Yunfei, et al. "MaskGraphene: Advancing joint embedding, clustering, and batch correction for spatial transcriptomics using graph-based self-supervised learning." bioRxiv (2024): 2024-02.
