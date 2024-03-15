@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "BME3890/BME8901: Special Topics – Computational Genomics"
+type: "BME3890/BME8901: Special Topics – Computational Genomics. Prof. Maizie Zhou"
 permalink: /teaching/2021-fall-teaching-1
 venue: "Vanderbilt University, Biomedical Engineering Department"
 date: 2021-08-26
