@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yunfei's homepage"
 title_separator          : "-"
 name                     : &name "Yunfei Hu"
-description              : &description "PhD candidate in Vandy CS"
+description              : &description "PhD candidate @ Vandy CS"
 url                      : https://OliiverHu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Yunfei"
   avatar           : "yunfei.png"
-  bio              : "PhD candidate in Vandy CS"
+  bio              : "PhD candidate @ Vandy CS"
   location         : "Nashville, TN"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=zjGJJgUAAAAJ&hl=en"
   email            : "yunfei.hu@vanderbilt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
