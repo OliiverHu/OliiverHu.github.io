@@ -29,7 +29,7 @@ nav_order: 1
     <p>
       <strong>ResGAT: sample-efficient graph attention for appendiceal cancer subtypes whole slide image analysis</strong><br>
       Z. Lin, H. Tong, <strong>Yunfei Hu</strong>, X. S. Gui, J. Shen, B. Lee, L. Zhang, D. Moyer, M. Zhou, X. M. Zhou*, K. Votanopoulos<br>
-      MIDL (under revision), 2026<br>
+      MIDL, 2026<br>
       <a href="https://openreview.net/forum?id=FkWHaxtAAG#discussion">Paper</a>
     </p>
   </div>
@@ -41,7 +41,7 @@ nav_order: 1
 
 <div class="publication-entry">
   <div class="publication-figure">
-    <img src="/images/publications/maskgraphene.png">
+    <img src="/images/publications/maskgraphene.png" alt="FAME">
   </div>
   <div class="publication-text">
     <p>
@@ -135,7 +135,7 @@ nav_order: 1
 
 <div class="publication-entry">
   <div class="publication-figure">
-    <img src="/images/publications/benchmarkst.png">
+    <img src="/images/publications/benchmarkst.png" alt="FAME">
   </div>
   <div class="publication-text">
     <p>
