@@ -11,7 +11,7 @@ author_profile: true
   <div class="education-details">
     <h3>Vanderbilt University</h3>
     <p>Ph.D. in Computer Science<br>
-    <span style="font-style: italic; font-size: 0.9em;">Designated Emphasis in Computational and Genomic Biology</span><br>
+    <span style="font-style: italic; font-size: 0.9em;">Computational Biology, Spatial Transcriptomic, and Interpretability</span><br>
     08/2021 - 08/2026</p>
   </div>
 
