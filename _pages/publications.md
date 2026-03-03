@@ -41,7 +41,7 @@ nav_order: 1
 
 <div class="publication-entry">
   <div class="publication-figure">
-    <img src="/images/publications/maskgraphene.png" alt="FAME">
+    <img src="/images/publications/maskgraphene.png" alt="FAME" width="120">
   </div>
   <div class="publication-text">
     <p>
@@ -135,7 +135,7 @@ nav_order: 1
 
 <div class="publication-entry">
   <div class="publication-figure">
-    <img src="/images/publications/benchmarkst.png" alt="FAME">
+    <img src="/images/publications/benchmarkst.png" alt="FAME" width="120">
   </div>
   <div class="publication-text">
     <p>
