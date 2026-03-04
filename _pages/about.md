@@ -15,6 +15,7 @@ I am a PhD candidate at Vanderbilt University, Department of Computer Science, a
 ### Field of interests:
 
 * Computational biology  
+* Spatial Transcriptomic
 * Mechanistic interpretability
 * Graph representation learning
 * NeuroAI
