@@ -54,6 +54,9 @@ nav_order: 1
 </div>
 
 <div class="publication-entry">
+  <div class="publication-figure">
+    <img src="/images/publications/atlas.png" alt="FAME" width="120">
+  </div>
   <div class="publication-text">
     <p>
       <strong>Spatial transcriptomics reveals organizational properties of mouse spinal cord and alterations in neuropathic pain</strong><br>

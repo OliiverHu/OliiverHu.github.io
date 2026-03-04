@@ -1,0 +1,31 @@
+/* Publications: image-left, text-right */
+.publication-entry{
+  display: flex;
+  gap: 24px;
+  align-items: flex-start;
+  margin: 18px 0 30px;
+}
+
+.publication-figure{
+  flex: 0 0 260px;
+  max-width: 260px;
+}
+
+.publication-figure img{
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.publication-text{
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+/* Mobile: stack vertically */
+@media (max-width: 700px){
+  .publication-entry{ flex-direction: column; }
+  .publication-figure{ max-width: 100%; }
+}
