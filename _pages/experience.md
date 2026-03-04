@@ -39,9 +39,9 @@ author_profile: true
 ## Selected Experience
 
 <div class="education-entry">
-  <div class="school-logo">
+  <!-- <div class="school-logo">
     <img src="/images/neuroai.png">
-  </div>
+  </div> -->
   <div class="education-details">
     <p>
       <strong>NeuroAI Research Intern</strong>, Cold Spring Harbor Lab, NY<br>
