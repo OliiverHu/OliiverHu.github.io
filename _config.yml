@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Yunfei's homepage"
 title_separator          : "-"
 name                     : &name "Yunfei Hu"
-description              : &description "PhD candidate @ Vandy CS"
+description              : &description "Postdoc @ WashU Medicine Genetics"
 url                      : https://OliiverHu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "OliiverHu/OliiverHu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yunfei"
   avatar           : "yunfei.png"
-  bio              : "PhD candidate @ Vandy CS"
-  location         : "Nashville, TN"
+  bio              : "Postdoc @ WashU Medicine Genetics"
+  location         : "St. Louis, MO"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=zjGJJgUAAAAJ&hl=en"
-  email            : "yunfei.hu@vanderbilt.edu"
+  email            : "hyunfei@wustl.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

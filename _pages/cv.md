@@ -14,20 +14,18 @@ Education
 * B.S. in Bioinformatics, Huazhong University of Science and Technology, 2018
     - visiting student, University of California, Berkeley, 2016
 * M.S. in Computer Science, Huazhong University of Science and Technology, 2021
-* Ph.D in Computer Science, Vanderbilt University, 2026 (expected)
+* Ph.D in Computer Science, Vanderbilt University, 2026
 
 
-<!-- Work experience
+Work experience
 ======
-* Fall 2021: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor
+* 08/2026 - present: Postdoctoral Research Associate
+  * Department of Genetics, Washington University School of Medicine in St. Louis
+  * PIs: Yang Xie and Guanghua Xiao
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
+* 05/2025 - 10/2025: NeuroAI Research Intern
+  * Cold Spring Harbor Laboratory
+  * Advisor: Florin Albeanu
   
 <!-- Skills
 ======
