@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV (PDF)](/files/Yunfei_Hu_CV.pdf)
+
 Education
 ======
 * B.S. in Bioinformatics, Huazhong University of Science and Technology, 2018
