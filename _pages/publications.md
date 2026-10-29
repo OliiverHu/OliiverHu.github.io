@@ -17,6 +17,57 @@ nav_order: 1
   <div class="publication-text">
     <ul class="pub-list">
       <li>
+        <strong>Benchmarking cell type annotation in spatial transcriptomics: resolving cellular hierarchies, biological fidelity, and dynamic cell states</strong><br>
+        Zhu Y.<sup>†</sup>, <strong>Yunfei Hu<sup>†</sup></strong>, Xie M. B.<sup>†</sup>, Qin H., Szul Z. J., Young D. M., Yuan W., Wang Q., Liu Y. H., Meltzer S.*, Zhou X. M.*<br>
+        <em>Nature Biomedical Engineering</em>, 2026 (under revision)
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-figure">
+    <img src="/images/publications/atlas.png" alt="Atlas" width="120">
+  </div>
+  <div class="publication-text">
+    <ul class="pub-list">
+      <li>
+        <strong>Spatial transcriptomics reveals organizational properties of mouse spinal cord and alterations in neuropathic pain</strong><br>
+        Wang Q.<sup>†</sup>, <strong>Yunfei Hu<sup>†</sup></strong>, Zhu Y., Peng J., Chelliah G., Sobanko M., Sanchez B., Ginty D. D., Zhou X. M., Meltzer S.<br>
+        <em>PNAS</em>, 2026 (in press) · <a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698734v1.abstract">bioRxiv</a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-text">
+    <ul class="pub-list">
+      <li>
+        <strong>Interpretable spatial multi-omics data integration and dimension reduction with SpaMV</strong><br>
+        Liu Y., Ma K., Xu H., Xu K., <strong>Yunfei Hu</strong>, Lin Z., Lin J., Han B., Li S., Lin Z., Zhou X. M., Zhang L.<br>
+        <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12440098/"><em>Nature Communications</em></a>, 2026
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-text">
+    <ul class="pub-list">
+      <li>
+        <strong>CSsingle: a unified tool for robust decomposition of bulk and spatial transcriptomic data across diverse single-cell references</strong><br>
+        Shen W.*, <strong>Yunfei Hu</strong>, Liu C., Lei Y., Wong H.-S., Wu S.*, Zhou X. M.*<br>
+        <a href="https://doi.org/10.1093/nar/gkag410"><em>Nucleic Acids Research</em></a>, 2026
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div class="publication-entry">
+  <div class="publication-text">
+    <ul class="pub-list">
+      <li>
         <strong>SCGclust: single-cell graph clustering using graph autoencoders integrating SNVs and CNAs</strong><br>
         Potu T.<sup>†</sup>, <strong>Yunfei Hu<sup>†</sup></strong>, Khan R., Dharani S., Ni J., Zhang L.*, Zhou X. M.*, Mallory X.*<br>
         <a href="https://www.mdpi.com/2227-7390/14/1/46"><em>Mathematics</em></a>, 2026
@@ -57,21 +108,6 @@ nav_order: 1
 </div>
 
 <div class="publication-entry">
-  <div class="publication-figure">
-    <img src="/images/publications/atlas.png" alt="Atlas" width="120">
-  </div>
-  <div class="publication-text">
-    <ul class="pub-list">
-      <li>
-        <strong>Spatial transcriptomics reveals organizational properties of mouse spinal cord and alterations in neuropathic pain</strong><br>
-        Wang Q.<sup>†</sup>, <strong>Yunfei Hu<sup>†</sup></strong>, Zhu Y., Peng J., Chelliah G., Sobanko M., Sanchez B., Ginty D. D., Zhou X. M., Meltzer S.<br>
-        <a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698734v1.abstract"><em>Cell Reports</em></a>, 2025 (under revision)
-      </li>
-    </ul>
-  </div>
-</div>
-
-<div class="publication-entry">
   <div class="publication-text">
     <ul class="pub-list">
       <li>
@@ -102,30 +138,6 @@ nav_order: 1
         <strong>BioLACE: unifying spatial geometry and marker priors for cohesive cell-type clustering in spatial transcriptomics</strong><br>
         Qin H., <strong>Yunfei Hu</strong>, Zhu Y., Baek J., Yuan W., Meltzer S., Zhou X. M.<br>
         <a href="https://www.biorxiv.org/content/10.64898/2025.12.01.691603v1.abstract"><em>Preprint</em></a>, 2025 (manuscript under review)
-      </li>
-    </ul>
-  </div>
-</div>
-
-<div class="publication-entry">
-  <div class="publication-text">
-    <ul class="pub-list">
-      <li>
-        <strong>Interpretable spatial multi-omics data integration and dimension reduction with SpaMV</strong><br>
-        Liu Y., Ma K., Xu H., Xu K., <strong>Yunfei Hu</strong>, Lin Z., Lin J., Han B., Li S., Lin Z., Zhou X. M., Zhang L.<br>
-        <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12440098/"><em>Nature Communications</em></a>, 2025 (under revision)
-      </li>
-    </ul>
-  </div>
-</div>
-
-<div class="publication-entry">
-  <div class="publication-text">
-    <ul class="pub-list">
-      <li>
-        <strong>CSsingle: a unified tool for robust decomposition of bulk and spatial transcriptomic data across diverse single-cell references</strong><br>
-        Shen W.*, <strong>Yunfei Hu</strong>, Liu C., Lei Y., Wong H.-S., Wu S.*, Zhou X. M.*<br>
-        <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11030304/"><em>Nucleic Acids Research</em></a>, 2025 (under revision)
       </li>
     </ul>
   </div>

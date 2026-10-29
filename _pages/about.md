@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Yunfei Hu's academic homepage"
-excerpt: "About me"
+excerpt: "Yunfei Hu: Postdoctoral Research Associate at WashU Medicine (Genetics), working on spatial transcriptomics, multi-omics foundation models, and interpretable machine learning."
 author_profile: true
 redirect_from: 
   - /about/

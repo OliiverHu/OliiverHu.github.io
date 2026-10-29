@@ -63,14 +63,18 @@ author_profile: true
 
 ## Academic Service
 
+### Program Chair
+
+IEEE BIBM 2026 Workshop on algorithmic advances for spatial omics data analysis (Dallas, TX)
+
 ### Program Committee
 
-MICCAI Workshop on Medical Imaging Analysis for Spatial Omics workshop
+MICCAI 2026 Workshop on Medical Imaging Analysis for Spatial Omics (Abu Dhabi, UAE)
 
-IEEE BIBM Workshop on algorithmic advances for spatial omics data analysis
+IEEE BIBM 2025 Workshop on algorithmic advances for spatial omics data analysis (Wuhan, China)
 
 ### Journal Reviewer
-Nature Communications/ Journal of Computational Biology/ IEEE Transactions on Computational Biology and Bioinformatics
+Nature Communications/ Journal of Computational Biology/ IEEE Transactions on Computational Biology and Bioinformatics/ IEEE Transactions on Knowledge and Data Engineering/ Pattern Recognition
 
 ### Conference Reviewer 
 AMIA 2025 2026 / BIBM 2025 2026 / RECOMB 2026

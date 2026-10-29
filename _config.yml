@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yunfei's homepage"
 title_separator          : "-"
 name                     : &name "Yunfei Hu"
-description              : &description "Postdoc @ WashU Medicine Genetics"
+description              : &description "Postdoctoral Research Associate at WashU Medicine (Genetics), working on spatial transcriptomics, multi-omics foundation models, and interpretable machine learning."
 url                      : https://OliiverHu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "OliiverHu/OliiverHu.github.io"
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "yunfei.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yunfei"
-  avatar           : "yunfei.png"
+  avatar           : "yunfei.jpg"
   bio              : "Postdoc @ WashU Medicine Genetics"
   location         : "St. Louis, MO"
   employer         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "yunfei-hu-93331016b/"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0003-7167-9620"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

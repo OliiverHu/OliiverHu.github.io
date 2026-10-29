@@ -36,11 +36,18 @@ Work experience
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
+Selected Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<sup>†</sup> equal contribution; \* corresponding author. Full list on the [Publications](/publications/) page.
+
+* Zhu Y.<sup>†</sup>, **Yunfei Hu<sup>†</sup>**, Xie M. B.<sup>†</sup>, Qin H., Szul Z. J., Young D. M., Yuan W., Wang Q., Liu Y. H., Meltzer S.\*, Zhou X. M.\* "Benchmarking cell type annotation in spatial transcriptomics: resolving cellular hierarchies, biological fidelity, and dynamic cell states." *Nature Biomedical Engineering* (2026, under revision)
+* Wang Q.<sup>†</sup>, **Yunfei Hu<sup>†</sup>**, Zhu Y., Peng J., Chelliah G., Sobanko M., Sanchez B., Ginty D. D., Zhou X. M., Meltzer S. "Spatial transcriptomics reveals organizational properties of mouse spinal cord and alterations in neuropathic pain." *PNAS* (2026, in press)
+* Liu Y., Ma K., Xu H., Xu K., **Yunfei Hu**, Lin Z., Lin J., Han B., Li S., Lin Z., Zhou X. M., Zhang L. "Interpretable spatial multi-omics data integration and dimension reduction with SpaMV." *Nature Communications* (2026)
+* Shen W.\*, **Yunfei Hu**, Liu C., Lei Y., Wong H.-S., Wu S.\*, Zhou X. M.\* "CSsingle: a unified tool for robust decomposition of bulk and spatial transcriptomic data across diverse single-cell references." *Nucleic Acids Research* (2026)
+* **Yunfei Hu**, Lin Z., Xie M., Yuan W., Rao M., Liu Y. H., Shen W., Zhang L.\*, Zhou X. M.\* "MaskGraphene: an advanced framework for interpretable joint representation for multi-slice, multi-condition spatial transcriptomics." *Genome Biology* (2025)
+* **Yunfei Hu<sup>†</sup>**, Wen Z.<sup>†</sup>, Lin Z., Qin H., Yuan W., Liu Y. H., Klindt D., Zhang L., Carja O., Zhou X. M. "An interpretable framework for decoding transcriptomic foundation models." *Manuscript under review* (2025)
+* **Yunfei Hu**, Xie M., Li Y., Rao M., Shen W., Luo C., Qin H., Baek J., Zhou X. M. "Benchmarking clustering, alignment, and integration methods for spatial transcriptomics." *Genome Biology* (2024)
+* **Yunfei Hu**, Zhao Y., Schunk C. T., Ma Y., Derr T., Zhou X. M. "ADEPT: Autoencoder with differentially expressed genes and imputation for robust spatial transcriptomics clustering." *iScience* (2023)
   
 Talks
 ======
