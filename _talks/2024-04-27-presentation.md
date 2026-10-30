@@ -1,7 +1,7 @@
 ---
 title: "RECOMB-seq2024 oral presentation"
 collection: talks
-type: "lecture"
+type: "presentation"
 permalink: /talks/2024-04-27-presentation
 venue: "RECOMB conference"
 date: 2024-04-27

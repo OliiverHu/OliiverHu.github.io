@@ -44,7 +44,7 @@ redirect_from:
       <li>
         <strong>Spatial transcriptomics reveals organizational properties of mouse spinal cord and alterations in neuropathic pain</strong><br>
         Wang Q.<sup>†</sup>, <strong>Yunfei Hu<sup>†</sup></strong>, Zhu Y., Peng J., Chelliah G., Sobanko M., Sanchez B., Ginty D. D., Zhou X. M., Meltzer S.<br>
-        <em>PNAS</em>, 2026 (in press) · <a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698734v1.abstract">bioRxiv</a>
+        <em>PNAS</em>, 2026 · <a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698734v1.abstract">bioRxiv</a>
       </li>
     </ul>
   </div>

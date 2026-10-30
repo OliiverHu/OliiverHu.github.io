@@ -1,11 +1,17 @@
 ---
 permalink: /courses/
 title: "Courses and Teaching"
-excerpt: "This is a page not in the main menu"
+excerpt: "Teaching assistantships and student mentoring by Yunfei Hu."
 author_profile: true
 redirect_from: 
   - "/nmp/"
   - "/nmp.html"
+  # old collection-based teaching pages, merged into this page 10-30
+  - /teaching/
+  - /teaching/2021-fall-teaching-1
+  - /teaching/2022-spring-teaching-2
+  - /teaching/2022-fall-teaching-3
+  - /teaching/mentoring
 ---
 
 ## Teaching Assistantship
@@ -70,6 +76,46 @@ Final project guidance and evaluation. -->
       Undergraduate Researcher, Vanderbilt University, Computer Science
       </td>
       <td style="border: 1px solid var(--global-border-color); padding: 8px;">2023-2025</td>
+    </tr>
+
+    <tr>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">
+      Jia Yao
+      </td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">
+      Undergraduate Researcher, Computer Science
+      </td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">2022</td>
+    </tr>
+
+    <tr>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">
+      Curtis Schunk
+      </td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">
+      MS Researcher, Biomedical Engineering
+      </td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">2022</td>
+    </tr>
+
+    <tr>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">
+      Sanidhya Mangal
+      </td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">
+      MS Researcher, Computer Science
+      </td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">2021-2022</td>
+    </tr>
+
+    <tr>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">
+      Zihang Wen
+      </td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">
+      Undergraduate Researcher, Engineering
+      </td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">2020-2022</td>
     </tr>
 
   </tbody>
