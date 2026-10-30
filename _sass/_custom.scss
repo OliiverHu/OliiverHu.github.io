@@ -34,3 +34,9 @@
 html[data-theme="dark"] thead{
   background-color: rgba(255, 255, 255, 0.12);
 }
+
+
+/* Light mode: soften mint's bright turquoise footer to a pale mint (dark mode keeps its own footer color) */
+:root{
+  --global-footer-bg-color: #dcf0f0;
+}
