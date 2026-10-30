@@ -27,7 +27,8 @@
 /* Mobile: stack vertically */
 @media (max-width: 700px){
   .publication-entry{ flex-direction: column; }
-  .publication-figure{ max-width: 100%; }
+  /* flex-basis would set the height once stacked; let the image decide */
+  .publication-figure{ flex: 0 0 auto; width: 100%; max-width: 100%; }
 }
 
 /* Dark mode: the theme's table header is light gray behind white text; use a subtle tint instead */

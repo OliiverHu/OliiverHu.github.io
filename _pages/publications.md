@@ -37,7 +37,7 @@ redirect_from:
 
 <div class="publication-entry">
   <div class="publication-figure">
-    <img src="/images/publications/atlas.png" alt="Atlas" width="120">
+    <img src="/images/publications/atlas.jpg" alt="Atlas" width="120">
   </div>
   <div class="publication-text">
     <ul class="pub-list">
@@ -51,18 +51,24 @@ redirect_from:
 </div>
 
 <div class="publication-entry">
+  <div class="publication-figure">
+    <img src="/images/publications/spamv.jpg" alt="SpaMV" width="120">
+  </div>
   <div class="publication-text">
     <ul class="pub-list">
       <li>
-        <strong>Interpretable spatial multi-omics data integration and dimension reduction with SpaMV</strong><br>
+        <strong>Interpretable spatial multi-omics data integration and dimensionality reduction with SpaMV</strong><br>
         Liu Y., Ma K., Xu H., Xu K., <strong>Hu Y.</strong>, Lin Z., Lin J., Han B., Li S., Lin Z., Zhou X. M., Zhang L.<br>
-        <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12440098/"><em>Nature Communications</em></a>, 2026
+        <a href="https://www.nature.com/articles/s41467-026-74718-1"><em>Nature Communications</em></a>, 2026
       </li>
     </ul>
   </div>
 </div>
 
 <div class="publication-entry">
+  <div class="publication-figure">
+    <img src="/images/publications/cssingle.jpg" alt="CSsingle" width="120">
+  </div>
   <div class="publication-text">
     <ul class="pub-list">
       <li>
@@ -104,7 +110,7 @@ redirect_from:
 
 <div class="publication-entry">
   <div class="publication-figure">
-    <img src="/images/publications/maskgraphene.png" alt="MaskGraphene" width="120">
+    <img src="/images/publications/maskgraphene.jpg" alt="MaskGraphene" width="120">
   </div>
   <div class="publication-text">
     <ul class="pub-list">
@@ -171,7 +177,7 @@ redirect_from:
 
 <div class="publication-entry">
   <div class="publication-figure">
-    <img src="/images/publications/benchmarkst.png" alt="BenchmarkST" width="120">
+    <img src="/images/publications/benchmarkst.jpg" alt="BenchmarkST" width="120">
   </div>
   <div class="publication-text">
     <ul class="pub-list">
@@ -189,6 +195,9 @@ redirect_from:
 ## 2023
 
 <div class="publication-entry">
+  <div class="publication-figure">
+    <img src="/images/publications/adept.jpg" alt="ADEPT" width="120">
+  </div>
   <div class="publication-text">
     <ul class="pub-list">
       <li>
