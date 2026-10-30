@@ -4,6 +4,16 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 nav_order: 1
+redirect_from:
+  # old per-paper pages from the template, removed 10-29
+  - /publication/SR2021
+  - /publication/bibm2021
+  - /publication/methods2022
+  - /publication/mimb2022
+  - /publication/recombseq2023
+  - /publication/recombseq2024-1
+  - /publication/recombseq2024-2
+  - /publication/GB2024
 ---
  
 † indicates equal contribution.
