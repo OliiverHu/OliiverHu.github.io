@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to Yunfei's homepage.
 
-I am a postdoctoral research associate in the [Department of Genetics](https://genetics.wustl.edu/) at Washington University School of Medicine in St. Louis (WashU Medicine), working with Prof. Yang Xie and Prof. Guanghua Xiao. I received my PhD in Computer Science from Vanderbilt University in 2026, advised by Prof. [Maizie Zhou](https://lab.vanderbilt.edu/maizie-zhou-lab/). During my PhD, I was a [NeuroAI Research Intern](https://www.cshl.edu/research/neuroscience/neuroai/) at CSHL from May to October 2025, advised by [Florin Albeanu](https://albeanulab.cshl.edu/). In 2018 and 2021, I earned my Bachelor's Degree and Master's Degree from [Huazhong University of Science and Technology](https://en.wikipedia.org/wiki/Huazhong_University_of_Science_and_Technology) with majors in Bioinformatics and Computer Science.
+I am a postdoctoral research associate in the [Department of Genetics](https://genetics.wustl.edu/) at Washington University School of Medicine in St. Louis (WashU Medicine), working with Prof. Yang Xie and Prof. Guanghua Xiao. I received my PhD in Computer Science from Vanderbilt University in 2026, advised by Prof. [Maizie Zhou](https://maiziezhoulab.github.io/). During my PhD, I was a [NeuroAI Research Intern](https://www.cshl.edu/research/neuroscience/neuroai/) at CSHL from May to October 2025, advised by [Florin Albeanu](https://albeanulab.cshl.edu/). In 2018 and 2021, I earned my Bachelor's Degree and Master's Degree from [Huazhong University of Science and Technology](https://en.wikipedia.org/wiki/Huazhong_University_of_Science_and_Technology) with majors in Bioinformatics and Computer Science.
 
 ### Field of interests:
 
