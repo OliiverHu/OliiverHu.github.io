@@ -70,7 +70,7 @@ Final project guidance and evaluation. -->
       <td style="border: 1px solid var(--global-border-color); padding: 8px;"><a href="https://www.linkedin.com/in/jimmybaek/">Jihoon Baek</a></td>
       <td style="border: 1px solid var(--global-border-color); padding: 8px;">Undergraduate Researcher, Vanderbilt University, Computer Science</td>
       <td style="border: 1px solid var(--global-border-color); padding: 8px; white-space: nowrap;">2023-2025</td>
-      <td style="border: 1px solid var(--global-border-color); padding: 8px;"></td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">Microsoft</td>
     </tr>
 
     <tr>
@@ -91,7 +91,7 @@ Final project guidance and evaluation. -->
       <td style="border: 1px solid var(--global-border-color); padding: 8px;">Sanidhya Mangal</td>
       <td style="border: 1px solid var(--global-border-color); padding: 8px;">MS Researcher, Computer Science</td>
       <td style="border: 1px solid var(--global-border-color); padding: 8px; white-space: nowrap;">2021-2022</td>
-      <td style="border: 1px solid var(--global-border-color); padding: 8px;"></td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">Data Scientist, HealthEdge</td>
     </tr>
 
     <tr>
