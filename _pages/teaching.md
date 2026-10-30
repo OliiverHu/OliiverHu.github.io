@@ -44,32 +44,32 @@ Final project guidance and evaluation. -->
 <table style="width: 100%; border-collapse: collapse;">
   <thead>
     <tr>
-      <th style="border: 1px solid black; padding: 8px; text-align: left;">Mentored Student</th>
-      <th style="border: 1px solid black; padding: 8px; text-align: left;">Position</th>
-      <th style="border: 1px solid black; padding: 8px; text-align: left;">Year</th>
+      <th style="border: 1px solid var(--global-border-color); padding: 8px; text-align: left;">Mentored Student</th>
+      <th style="border: 1px solid var(--global-border-color); padding: 8px; text-align: left;">Position</th>
+      <th style="border: 1px solid var(--global-border-color); padding: 8px; text-align: left;">Year</th>
     </tr>
   </thead>
 
   <tbody>
 
     <tr>
-      <td style="border: 1px solid black; padding: 8px;">
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">
       <a href="https://www.linkedin.com/in/haoran-vu/">Haoran Qin</a>
       </td>
-      <td style="border: 1px solid black; padding: 8px;">
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">
       Undergraduate Researcher, Vanderbilt University, Computer Science
       </td>
-      <td style="border: 1px solid black; padding: 8px;">from 2023</td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">from 2023</td>
     </tr>
 
     <tr>
-      <td style="border: 1px solid black; padding: 8px;">
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">
       <a href="https://www.linkedin.com/in/jimmybaek/">Jihoon Baek</a>
       </td>
-      <td style="border: 1px solid black; padding: 8px;">
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">
       Undergraduate Researcher, Vanderbilt University, Computer Science
       </td>
-      <td style="border: 1px solid black; padding: 8px;">2023-2025</td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">2023-2025</td>
     </tr>
 
   </tbody>

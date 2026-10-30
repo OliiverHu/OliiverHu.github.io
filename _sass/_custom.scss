@@ -29,3 +29,8 @@
   .publication-entry{ flex-direction: column; }
   .publication-figure{ max-width: 100%; }
 }
+
+/* Dark mode: the theme's table header is light gray behind white text; use a subtle tint instead */
+html[data-theme="dark"] thead{
+  background-color: rgba(255, 255, 255, 0.12);
+}
