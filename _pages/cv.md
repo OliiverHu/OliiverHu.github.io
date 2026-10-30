@@ -65,7 +65,7 @@ Teaching
   * BME 3302: Biomedical Instrumentation II (2022)
   * CS 4262/5262: Foundations of Machine Learning (2022)
   * BME 3890/8901: Special Topics – Computational Genomics (2021)
-* Mentored 6 undergraduate and master's students (see [Teaching](/courses/))
+* Mentored and collaborated with 6 undergraduate and master's students (see [Teaching](/courses/))
   
 <!-- Service and leadership
 ======

@@ -45,77 +45,60 @@ Final project guidance and evaluation. -->
 
 ---
 
-## Mentorship Experience
+## Mentoring & Collaboration
 
 <table style="width: 100%; border-collapse: collapse;">
   <thead>
     <tr>
-      <th style="border: 1px solid var(--global-border-color); padding: 8px; text-align: left;">Mentored Student</th>
-      <th style="border: 1px solid var(--global-border-color); padding: 8px; text-align: left;">Position</th>
-      <th style="border: 1px solid var(--global-border-color); padding: 8px; text-align: left;">Year</th>
+      <th style="border: 1px solid var(--global-border-color); padding: 8px; text-align: left;">Name</th>
+      <th style="border: 1px solid var(--global-border-color); padding: 8px; text-align: left;">Position at the time</th>
+      <th style="border: 1px solid var(--global-border-color); padding: 8px; white-space: nowrap; text-align: left;">Years</th>
+      <th style="border: 1px solid var(--global-border-color); padding: 8px; text-align: left;">Next step</th>
     </tr>
   </thead>
 
   <tbody>
 
     <tr>
-      <td style="border: 1px solid var(--global-border-color); padding: 8px;">
-      <a href="https://www.linkedin.com/in/haoran-vu/">Haoran Qin</a>
-      </td>
-      <td style="border: 1px solid var(--global-border-color); padding: 8px;">
-      Undergraduate Researcher, Vanderbilt University, Computer Science
-      </td>
-      <td style="border: 1px solid var(--global-border-color); padding: 8px;">from 2023</td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;"><a href="https://www.linkedin.com/in/haoran-vu/">Haoran Qin</a></td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">Undergraduate Researcher, Vanderbilt University, Computer Science</td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px; white-space: nowrap;">from 2023</td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">PhD program in Medical Imaging, Duke University</td>
     </tr>
 
     <tr>
-      <td style="border: 1px solid var(--global-border-color); padding: 8px;">
-      <a href="https://www.linkedin.com/in/jimmybaek/">Jihoon Baek</a>
-      </td>
-      <td style="border: 1px solid var(--global-border-color); padding: 8px;">
-      Undergraduate Researcher, Vanderbilt University, Computer Science
-      </td>
-      <td style="border: 1px solid var(--global-border-color); padding: 8px;">2023-2025</td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;"><a href="https://www.linkedin.com/in/jimmybaek/">Jihoon Baek</a></td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">Undergraduate Researcher, Vanderbilt University, Computer Science</td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px; white-space: nowrap;">2023-2025</td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;"></td>
     </tr>
 
     <tr>
-      <td style="border: 1px solid var(--global-border-color); padding: 8px;">
-      Jia Yao
-      </td>
-      <td style="border: 1px solid var(--global-border-color); padding: 8px;">
-      Undergraduate Researcher, Computer Science
-      </td>
-      <td style="border: 1px solid var(--global-border-color); padding: 8px;">2022</td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">Jia Yao</td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">Undergraduate Researcher, Computer Science</td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px; white-space: nowrap;">2022</td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">PhD program in Biomedical Engineering, UT Southwestern Medical Center</td>
     </tr>
 
     <tr>
-      <td style="border: 1px solid var(--global-border-color); padding: 8px;">
-      Curtis Schunk
-      </td>
-      <td style="border: 1px solid var(--global-border-color); padding: 8px;">
-      MS Researcher, Biomedical Engineering
-      </td>
-      <td style="border: 1px solid var(--global-border-color); padding: 8px;">2022</td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">Curtis Schunk</td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">MS Researcher, Biomedical Engineering</td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px; white-space: nowrap;">2022</td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">Analyst, Clinical &amp; Strategic Analytics, OneOncology</td>
     </tr>
 
     <tr>
-      <td style="border: 1px solid var(--global-border-color); padding: 8px;">
-      Sanidhya Mangal
-      </td>
-      <td style="border: 1px solid var(--global-border-color); padding: 8px;">
-      MS Researcher, Computer Science
-      </td>
-      <td style="border: 1px solid var(--global-border-color); padding: 8px;">2021-2022</td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">Sanidhya Mangal</td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">MS Researcher, Computer Science</td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px; white-space: nowrap;">2021-2022</td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;"></td>
     </tr>
 
     <tr>
-      <td style="border: 1px solid var(--global-border-color); padding: 8px;">
-      Zihang Wen
-      </td>
-      <td style="border: 1px solid var(--global-border-color); padding: 8px;">
-      Undergraduate Researcher, Engineering
-      </td>
-      <td style="border: 1px solid var(--global-border-color); padding: 8px;">2020-2022</td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">Zihang Wen</td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">Undergraduate Researcher, Engineering</td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px; white-space: nowrap;">2020-2022</td>
+      <td style="border: 1px solid var(--global-border-color); padding: 8px;">PhD program in Computational Biology, Carnegie Mellon University</td>
     </tr>
 
   </tbody>
